@@ -1,0 +1,7 @@
+GitHub Setup Activity
+
+Name: Lokshana
+Department: (ai&ds)
+Year: (1)
+
+This is my first repository created for the GitHub setup activity.
